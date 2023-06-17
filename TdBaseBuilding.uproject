@@ -19,10 +19,6 @@
 		{
 			"Name": "SunPosition",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
 		}
 	]
 }
