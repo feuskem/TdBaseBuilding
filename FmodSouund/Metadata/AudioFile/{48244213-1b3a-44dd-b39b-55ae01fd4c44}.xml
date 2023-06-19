@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{48244213-1b3a-44dd-b39b-55ae01fd4c44}">
+		<property name="assetPath">
+			<value>minerses.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>241.34606249999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e4bd24c-933d-4496-a244-266640c6f965}</destination>
+		</relationship>
+	</object>
+</objects>
